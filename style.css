@@ -18,8 +18,10 @@
 }
 
 @media (max-width:768px) {
+
   .about-app { text-align: center;
   }
+
 }
 .main-wrapper {
   display: block;
