@@ -13,7 +13,7 @@
 .about-app img {
   width: 100%;
 }
-.more-inf {
+.about-app__more-inf {
   font-family: fantasy, cursive;
 }
 
@@ -34,7 +34,7 @@
   display: inline-block;
   flex-grow: 1;
 }
-.task-wrapper {
+.add-task-wrapper {
   display: flex;
 }
 ul {
